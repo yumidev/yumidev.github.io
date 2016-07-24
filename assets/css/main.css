@@ -466,5 +466,10 @@ a:after {
 }
 
 #g svg {
+  margin-top: 50px;
   width: 200px;
+}
+
+.btn {
+  margin-bottom: 20px;
 }
